@@ -23,10 +23,10 @@ Missed appointments (no-shows) present a major challenge for healthcare provider
 Based on the analysis and findings, I recommend the following:
 
   1. Priotize scheduling efficiency to reduce appointment waiting times
-  2. Consider revamping scheduling system by introducing waitlist systems to backfill cancellations or overbooking strategies
+  2. Consider revamping scheduling system by introducing a waitlist system to backfill cancellations or overbooking strategies
   3. Optimize staff and provider capacity to reduce scheduling delays
-  4. Introduce targeted interventions for younger patients (≤40) such as personalized reminders and easy rescheduling options
-  5. Re-evaluate SMS reminder strategy and test alternative approaches
+  4. Introduce targeted interventions for younger patients (≤40), such as personalized reminders and easy rescheduling options
+  5. Re-evaluate the SMS reminder strategy and test alternative communication approaches
 
 
 
