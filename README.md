@@ -28,5 +28,8 @@ Based on the analysis and findings, I recommend the following:
   4. Introduce targeted interventions for younger patients (≤40), such as personalized reminders and easy rescheduling options
   5. Re-evaluate the SMS reminder strategy and test alternative communication approaches
 
+### Next Steps :
+
+
 
 
