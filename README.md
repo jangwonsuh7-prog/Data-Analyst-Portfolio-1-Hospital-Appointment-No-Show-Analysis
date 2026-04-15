@@ -17,4 +17,4 @@ Missed appointments (no-shows) present a major challenge for healthcare provider
 
 
 
-Analyzes Hospital Appointment No Show to identify patterns and to come up with actionable insights that could reduce no show rate
+
