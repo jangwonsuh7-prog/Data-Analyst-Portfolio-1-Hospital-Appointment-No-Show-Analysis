@@ -29,6 +29,10 @@ Based on the analysis and findings, I recommend the following:
   5. Re-evaluate the SMS reminder strategy and test alternative communication approaches
 
 ### Next Steps :
+  1. Finalize action plans with administrative and clinical leadership
+  2. Test finalized action plans through A/B testing
+  3. Build a dashboard to track no-show trends and assess the effectiveness of implemented interventions over time
+  4. Expand analysis with additional variables to improve insights
 
 
 
